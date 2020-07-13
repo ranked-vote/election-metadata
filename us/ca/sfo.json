@@ -1,0 +1,34 @@
+{
+    "name": "San Francisco",
+    "path": "us/ca/sfo",
+    "kind": "municipal",
+    "offices": {
+        "mayor": {
+            "name": "Mayor"
+        }
+    },
+    "elections": {
+        "2018/06": {
+            "name": "2020 Mayoral",
+            "date": "2020-06-05",
+            "dataFormat": "us_ca_sfo",
+            "tabulation": "eager_irv",
+            "contests": [
+                {
+                    "office": "mayor",
+                    "loaderParams": {
+                        "contest": "20",
+                        "masterLookup": "20180627_masterlookup.txt",
+                        "ballotImage": "20180627_ballotimage.txt"
+                    },
+                    "candidates": null
+                }
+            ],
+            "files": {
+                "20180627_ballotimage.txt": "9544df621e257046b94e011dcb1a95bdb0148143",
+                "20180627_masterlookup.txt": "030176016a69434bcc4353a502fbe0935bea3a0e",
+                "20180627_sha512.csv": "eed96a5a5e2a0171f39258c3a51b9a63b2d1264f"
+            }
+        }
+    }
+}
