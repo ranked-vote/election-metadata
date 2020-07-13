@@ -13,6 +13,7 @@
             "date": "2020-06-05",
             "dataFormat": "us_ca_sfo",
             "tabulation": "eager_irv",
+            "normalization": "simple",
             "contests": [
                 {
                     "office": "mayor",
