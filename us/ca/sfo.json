@@ -1,35 +1,83 @@
 {
-    "name": "San Francisco",
-    "path": "us/ca/sfo",
-    "kind": "municipal",
-    "offices": {
-        "mayor": {
-            "name": "Mayor"
-        }
+  "name": "San Francisco",
+  "path": "us/ca/sfo",
+  "kind": "municipal",
+  "offices": {
+    "assessor": {
+      "name": "Assessor-Recorder"
     },
-    "elections": {
-        "2018/06": {
-            "name": "2020 Mayoral",
-            "date": "2020-06-05",
-            "dataFormat": "us_ca_sfo",
-            "tabulation": "eager_irv",
-            "normalization": "simple",
-            "contests": [
-                {
-                    "office": "mayor",
-                    "loaderParams": {
-                        "contest": "20",
-                        "masterLookup": "20180627_masterlookup.txt",
-                        "ballotImage": "20180627_ballotimage.txt"
-                    },
-                    "candidates": null
-                }
-            ],
-            "files": {
-                "20180627_ballotimage.txt": "9544df621e257046b94e011dcb1a95bdb0148143",
-                "20180627_masterlookup.txt": "030176016a69434bcc4353a502fbe0935bea3a0e",
-                "20180627_sha512.csv": "eed96a5a5e2a0171f39258c3a51b9a63b2d1264f"
-            }
-        }
+    "defender": {
+      "name": "Public Defender"
+    },
+    "mayor": {
+      "name": "Mayor"
+    },
+    "supervisor-d01": {
+      "name": "Board of Supervisors, District 1"
+    },
+    "supervisor-d02": {
+      "name": "Board of Supervisors, District 2"
+    },
+    "supervisor-d03": {
+      "name": "Board of Supervisors, District 3"
+    },
+    "supervisor-d04": {
+      "name": "Board of Supervisors, District 4"
+    },
+    "supervisor-d05": {
+      "name": "Board of Supervisors, District 5"
+    },
+    "supervisor-d06": {
+      "name": "Board of Supervisors, District 6"
+    },
+    "supervisor-d07": {
+      "name": "Board of Supervisors, District 7"
+    },
+    "supervisor-d08": {
+      "name": "Board of Supervisors, District 8"
+    },
+    "supervisor-d09": {
+      "name": "Board of Supervisors, District 9"
+    },
+    "supervisor-d10": {
+      "name": "Board of Supervisors, District 10"
+    },
+    "supervisor-d11": {
+      "name": "Board of Supervisors, District 11"
     }
+  },
+  "elections": {
+    "2018/06": {
+      "name": "2020 Mayoral",
+      "date": "2020-06-05",
+      "dataFormat": "us_ca_sfo",
+      "tabulation": "eager_irv",
+      "normalization": "simple",
+      "contests": [
+        {
+          "office": "mayor",
+          "loaderParams": {
+            "ballotImage": "20180627_ballotimage.txt",
+            "contest": "20",
+            "masterLookup": "20180627_masterlookup.txt"
+          },
+          "candidates": null
+        },
+        {
+          "office": "supervisor-d08",
+          "loaderParams": {
+            "ballotImage": "20180627_ballotimage.txt",
+            "contest": "21",
+            "masterLookup": "20180627_masterlookup.txt"
+          },
+          "candidates": null
+        }
+      ],
+      "files": {
+        "20180627_ballotimage.txt": "9544df621e257046b94e011dcb1a95bdb0148143",
+        "20180627_masterlookup.txt": "030176016a69434bcc4353a502fbe0935bea3a0e",
+        "20180627_sha512.csv": "eed96a5a5e2a0171f39258c3a51b9a63b2d1264f"
+      }
+    }
+  }
 }
