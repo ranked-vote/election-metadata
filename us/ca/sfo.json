@@ -44,6 +44,9 @@
     },
     "supervisor-d11": {
       "name": "Board of Supervisors, District 11"
+    },
+    "sheriff": {
+      "name": "Sheriff"
     }
   },
   "elections": {
@@ -116,7 +119,32 @@
       "dataFormat": "us_ca_sfo",
       "tabulation": "eager_irv",
       "normalization": "simple",
-      "contests": [],
+      "contests": [
+        {
+          "office": "mayor",
+          "loaderParams": {
+            "ballotImage": "20151119_ballotimage.txt",
+            "contest": "1",
+            "masterLookup": "20151119_masterlookup.txt"
+          }
+        },
+        {
+          "office": "sheriff",
+          "loaderParams": {
+            "ballotImage": "20151119_ballotimage.txt",
+            "contest": "2",
+            "masterLookup": "20151119_masterlookup.txt"
+          }
+        },
+        {
+          "office": "supervisor-d03",
+          "loaderParams": {
+            "ballotImage": "20151119_ballotimage.txt",
+            "contest": "3",
+            "masterLookup": "20151119_masterlookup.txt"
+          }
+        }
+      ],
       "files": {
         "20151119_ballotimage.txt": "8f5079df4267c4c23c3432ff71ce148dc483f30a",
         "20151119_masterlookup.txt": "32444f136a2aacecb740d70ecc02b99c9b0102fc"
@@ -129,7 +157,62 @@
       "dataFormat": "us_ca_sfo",
       "tabulation": "eager_irv",
       "normalization": "simple",
-      "contests": [],
+      "contests": [
+        {
+          "office": "supervisor-d01",
+          "loaderParams": {
+            "ballotImage": "20161206_ballotimage.txt",
+            "contest": "9",
+            "masterLookup": "20161206_masterlookup.txt"
+          },
+          "candidates": null
+        },
+        {
+          "office": "supervisor-d03",
+          "loaderParams": {
+            "ballotImage": "20161206_ballotimage.txt",
+            "contest": "10",
+            "masterLookup": "20161206_masterlookup.txt"
+          },
+          "candidates": null
+        },
+        {
+          "office": "supervisor-d05",
+          "loaderParams": {
+            "ballotImage": "20161206_ballotimage.txt",
+            "contest": "11",
+            "masterLookup": "20161206_masterlookup.txt"
+          },
+          "candidates": null
+        },
+        {
+          "office": "supervisor-d07",
+          "loaderParams": {
+            "ballotImage": "20161206_ballotimage.txt",
+            "contest": "12",
+            "masterLookup": "20161206_masterlookup.txt"
+          },
+          "candidates": null
+        },
+        {
+          "office": "supervisor-d09",
+          "loaderParams": {
+            "ballotImage": "20161206_ballotimage.txt",
+            "contest": "13",
+            "masterLookup": "20161206_masterlookup.txt"
+          },
+          "candidates": null
+        },
+        {
+          "office": "supervisor-d11",
+          "loaderParams": {
+            "ballotImage": "20161206_ballotimage.txt",
+            "contest": "14",
+            "masterLookup": "20161206_masterlookup.txt"
+          },
+          "candidates": null
+        }
+      ],
       "files": {
         "20161206_ballotimage.txt": "ff12479964e24b73aee8cc6e8fa68400361c971c",
         "20161206_masterlookup.txt": "c1128b1b6a7319da871cad0a2a2429db64c8ed70",
