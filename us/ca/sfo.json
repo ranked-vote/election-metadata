@@ -47,9 +47,99 @@
     }
   },
   "elections": {
+    "2010/11": {
+      "name": "2010 Consolidated General Election",
+      "date": "2010-11-02",
+      "dataFormat": "us_ca_sfo",
+      "tabulation": "eager_irv",
+      "normalization": "simple",
+      "contests": [],
+      "files": {
+        "Ballot Image RCV help.pdf": "2af4845cdd8f622be2dd9cfcb4e7272a2b05c3f9",
+        "BallotImage-D10.txt": "3c7c7b8545f15bbd12444f9e464f537cb7cd9901",
+        "BallotImage-D2.txt": "a0f201f82f0cda53812156f5d0569d97ec8d6a1d",
+        "BallotImage-D6.txt": "bbbd670db2c583dda13fb4d314902b94b2b08936",
+        "BallotImage-D8.txt": "2d4bcc45600ba662aa50ae53c7acf540babf8991",
+        "D10.zip": "a054002a9555d5e461a1f8afc95dd9e320eeb5f6",
+        "D2.zip": "ab3b02f524f211a662543bbb976a36daba6badd8",
+        "D6.zip": "7615e78ee95f23eda7a3694b42eeb3478c674366",
+        "D8.zip": "75c39c1eafd6fe91a47d5472d566e1707bbcbab3",
+        "MasterLookup-D10.txt": "f6c5ccbe0515fdcdd55ee46c0d2421ed762af1af",
+        "MasterLookup-D2.txt": "46b3858b83cbcdc464722b8d4807a5656675834a",
+        "MasterLookup-D6.txt": "b10fed89fabb544fdc0d5cae907c2921d6a21c0f",
+        "MasterLookup-D8.txt": "ff3686d5fc8c1d05320fac925038c92b0a5301e4"
+      },
+      "website": "https://sfelections.org/results/20101102/"
+    },
+    "2011/11": {
+      "name": "2011 Consolidated Municipal Election",
+      "date": "2011-11-08",
+      "dataFormat": "us_ca_sfo",
+      "tabulation": "eager_irv",
+      "normalization": "simple",
+      "contests": [],
+      "files": {
+        "DA.zip": "dcf512c7e6204e7f121275c45ef66f734a62dc1c",
+        "Mayor.zip": "521a061ded9337a971037144cc6a80655e47f885",
+        "Sheriff.zip": "1cf3d7b1ec0dc7c6e7fa2d7adb09dad9aaab9566"
+      },
+      "website": "https://sfelections.org/results/20111108/"
+    },
+    "2012/11": {
+      "name": "2012 Consolidated General Election",
+      "date": "2012-11-06",
+      "dataFormat": "us_ca_sfo",
+      "tabulation": "eager_irv",
+      "normalization": "simple",
+      "contests": [],
+      "files": {
+        "D5.zip": "feee735b1bb405bf69e0e1a52ace630f4e27369c",
+        "D7.zip": "02b7bbddda09f716d00380c6922778ada248717a"
+      },
+      "website": "https://sfelections.org/results/20121106/index.php#english_detail"
+    },
+    "2014/11": {
+      "name": "2014 Consolidated General Election",
+      "date": "2014-11-04",
+      "dataFormat": "us_ca_sfo",
+      "tabulation": "eager_irv",
+      "normalization": "simple",
+      "contests": [],
+      "files": {
+        "D10.zip": "8e902269c9646c863ca5839560b26060fa7fa884"
+      },
+      "website": "https://www.sfelections.org/results/20141104/#english_detail"
+    },
+    "2015/11": {
+      "name": "2015 Consolidated Municipal Election",
+      "date": "2015-11-03",
+      "dataFormat": "us_ca_sfo",
+      "tabulation": "eager_irv",
+      "normalization": "simple",
+      "contests": [],
+      "files": {
+        "20151119_ballotimage.txt": "8f5079df4267c4c23c3432ff71ce148dc483f30a",
+        "20151119_masterlookup.txt": "32444f136a2aacecb740d70ecc02b99c9b0102fc"
+      },
+      "website": "https://sfelections.org/results/20151103/#english_detail"
+    },
+    "2016/11": {
+      "name": "2016 Consolidated General Election",
+      "date": "2016-11-08",
+      "dataFormat": "us_ca_sfo",
+      "tabulation": "eager_irv",
+      "normalization": "simple",
+      "contests": [],
+      "files": {
+        "20161206_ballotimage.txt": "ff12479964e24b73aee8cc6e8fa68400361c971c",
+        "20161206_masterlookup.txt": "c1128b1b6a7319da871cad0a2a2429db64c8ed70",
+        "20161206_turnout.txt": "f47e0464807eb96a374d92b5bee942badd1af65d"
+      },
+      "website": "https://sfelections.sfgov.org/november-8-2016-election-results-detailed-reports"
+    },
     "2018/06": {
-      "name": "2020 Mayoral",
-      "date": "2020-06-05",
+      "name": "2018 Consolidated Statewide Primary Election",
+      "date": "2018-06-05",
       "dataFormat": "us_ca_sfo",
       "tabulation": "eager_irv",
       "normalization": "simple",
@@ -77,7 +167,102 @@
         "20180627_ballotimage.txt": "9544df621e257046b94e011dcb1a95bdb0148143",
         "20180627_masterlookup.txt": "030176016a69434bcc4353a502fbe0935bea3a0e",
         "20180627_sha512.csv": "eed96a5a5e2a0171f39258c3a51b9a63b2d1264f"
-      }
+      },
+      "website": "https://sfelections.sfgov.org/june-5-2018-election-results-detailed-reports"
+    },
+    "2018/11": {
+      "name": "2018 General Election",
+      "date": "2018-11-06",
+      "dataFormat": "us_ca_sfo",
+      "tabulation": "eager_irv",
+      "normalization": "simple",
+      "contests": [
+        {
+          "office": "assessor",
+          "loaderParams": {
+            "ballotImage": "20181127_assessor_ballotimage.txt",
+            "contest": "29",
+            "masterLookup": "20181127_masterlookup.txt"
+          },
+          "candidates": null
+        },
+        {
+          "office": "defender",
+          "loaderParams": {
+            "ballotImage": "20181127_defender_ballotimage.txt",
+            "contest": "32",
+            "masterLookup": "20181127_masterlookup.txt"
+          },
+          "candidates": null
+        },
+        {
+          "office": "supervisor-d02",
+          "loaderParams": {
+            "ballotImage": "20181127_d2_ballotimage.txt",
+            "contest": "35",
+            "masterLookup": "20181127_masterlookup.txt"
+          },
+          "candidates": null
+        },
+        {
+          "office": "supervisor-d04",
+          "loaderParams": {
+            "ballotImage": "20181127_d4_ballotimage.txt",
+            "contest": "36",
+            "masterLookup": "20181127_masterlookup.txt"
+          },
+          "candidates": null
+        },
+        {
+          "office": "supervisor-d06",
+          "loaderParams": {
+            "ballotImage": "20181127_d6_ballotimage.txt",
+            "contest": "37",
+            "masterLookup": "20181127_masterlookup.txt"
+          },
+          "candidates": null
+        },
+        {
+          "office": "supervisor-d08",
+          "loaderParams": {
+            "ballotImage": "20181127_d8_ballotimage.txt",
+            "contest": "38",
+            "masterLookup": "20181127_masterlookup.txt"
+          },
+          "candidates": null
+        },
+        {
+          "office": "supervisor-d10",
+          "loaderParams": {
+            "ballotImage": "20181127_d10_ballotimage.txt",
+            "contest": "39",
+            "masterLookup": "20181127_masterlookup.txt"
+          },
+          "candidates": null
+        }
+      ],
+      "files": {
+        "20181127_assessor_ballotimage.txt": "61d1f9e2df0c9e239f85a609487d912b77f92c43",
+        "20181127_d10_ballotimage.txt": "9f1177357c1b3be1a861ea496343b4cecc181250",
+        "20181127_d2_ballotimage.txt": "128cb76858fdc17fce3683613715b5a1428f36a8",
+        "20181127_d4_ballotimage.txt": "bbfe748c18b6c1b8b7ae108f266f1398d4e70377",
+        "20181127_d6_ballotimage.txt": "b749052240062e1e3b0f7102c963244ff74939fb",
+        "20181127_d8_ballotimage.txt": "00fc9d75d29a4fb80ba987763978f81218bd8cbe",
+        "20181127_defender_ballotimage.txt": "ba1b22adb8eabb95b3f6f6eb0d370794596ba0a6",
+        "20181127_masterlookup.txt": "a8e909a7cea653eea6ed3e450fa83cd41d0e11ed",
+        "20181127_sha512.csv": "858f6e0280e079a065711844b068470b71db2d69"
+      },
+      "website": "https://sfelections.sfgov.org/november-6-2018-election-results-detailed-reports"
+    },
+    "2019/11": {
+      "name": "Consolidated Municipal Election",
+      "date": "2019-11-05",
+      "dataFormat": "us_ca_sfo",
+      "tabulation": "eager_irv",
+      "normalization": "simple",
+      "contests": [],
+      "files": {},
+      "website": "https://sfelections.sfgov.org/november-5-2019-election-results-detailed-reports"
     }
   }
 }
