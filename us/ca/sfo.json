@@ -261,7 +261,9 @@
       "tabulation": "eager_irv",
       "normalization": "simple",
       "contests": [],
-      "files": {},
+      "files": {
+        "CVR_Export_20191125163446.zip": "bcaae1c5f57a367af861cc267c5e252a7786049a"
+      },
       "website": "https://sfelections.sfgov.org/november-5-2019-election-results-detailed-reports"
     }
   }
