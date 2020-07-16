@@ -6,11 +6,17 @@
     "assessor": {
       "name": "Assessor-Recorder"
     },
+    "da": {
+      "name": "District Attorney"
+    },
     "defender": {
       "name": "Public Defender"
     },
     "mayor": {
       "name": "Mayor"
+    },
+    "sheriff": {
+      "name": "Sheriff"
     },
     "supervisor-d01": {
       "name": "Board of Supervisors, District 1"
@@ -44,9 +50,6 @@
     },
     "supervisor-d11": {
       "name": "Board of Supervisors, District 11"
-    },
-    "sheriff": {
-      "name": "Sheriff"
     }
   },
   "elections": {
@@ -56,21 +59,53 @@
       "dataFormat": "us_ca_sfo",
       "tabulation": "eager_irv",
       "normalization": "simple",
-      "contests": [],
+      "contests": [
+        {
+          "office": "supervisor-d02",
+          "loaderParams": {
+            "ballotImage": "BallotImage-D2.txt",
+            "contest": "7",
+            "masterLookup": "MasterLookup-D2.txt",
+            "zipFile": "D2.zip"
+          },
+          "candidates": null
+        },
+        {
+          "office": "supervisor-d06",
+          "loaderParams": {
+            "ballotImage": "BallotImage-D6.txt",
+            "contest": "9",
+            "masterLookup": "MasterLookup-D6.txt",
+            "zipFile": "D6.zip"
+          },
+          "candidates": null
+        },
+        {
+          "office": "supervisor-d08",
+          "loaderParams": {
+            "ballotImage": "BallotImage-D8.txt",
+            "contest": "10",
+            "masterLookup": "MasterLookup-D8.txt",
+            "zipFile": "D8.zip"
+          },
+          "candidates": null
+        },
+        {
+          "office": "supervisor-d10",
+          "loaderParams": {
+            "ballotImage": "BallotImage-D10.txt",
+            "contest": "6",
+            "masterLookup": "MasterLookup-D10.txt",
+            "zipFile": "D10.zip"
+          },
+          "candidates": null
+        }
+      ],
       "files": {
-        "Ballot Image RCV help.pdf": "2af4845cdd8f622be2dd9cfcb4e7272a2b05c3f9",
-        "BallotImage-D10.txt": "3c7c7b8545f15bbd12444f9e464f537cb7cd9901",
-        "BallotImage-D2.txt": "a0f201f82f0cda53812156f5d0569d97ec8d6a1d",
-        "BallotImage-D6.txt": "bbbd670db2c583dda13fb4d314902b94b2b08936",
-        "BallotImage-D8.txt": "2d4bcc45600ba662aa50ae53c7acf540babf8991",
         "D10.zip": "a054002a9555d5e461a1f8afc95dd9e320eeb5f6",
         "D2.zip": "ab3b02f524f211a662543bbb976a36daba6badd8",
         "D6.zip": "7615e78ee95f23eda7a3694b42eeb3478c674366",
-        "D8.zip": "75c39c1eafd6fe91a47d5472d566e1707bbcbab3",
-        "MasterLookup-D10.txt": "f6c5ccbe0515fdcdd55ee46c0d2421ed762af1af",
-        "MasterLookup-D2.txt": "46b3858b83cbcdc464722b8d4807a5656675834a",
-        "MasterLookup-D6.txt": "b10fed89fabb544fdc0d5cae907c2921d6a21c0f",
-        "MasterLookup-D8.txt": "ff3686d5fc8c1d05320fac925038c92b0a5301e4"
+        "D8.zip": "75c39c1eafd6fe91a47d5472d566e1707bbcbab3"
       },
       "website": "https://sfelections.org/results/20101102/"
     },
@@ -80,7 +115,38 @@
       "dataFormat": "us_ca_sfo",
       "tabulation": "eager_irv",
       "normalization": "simple",
-      "contests": [],
+      "contests": [
+        {
+          "office": "da",
+          "loaderParams": {
+            "ballotImage": "DA-BallotImage.txt",
+            "contest": "1",
+            "masterLookup": "DA-MasterLookUp.txt",
+            "zipFile": "DA.zip"
+          },
+          "candidates": null
+        },
+        {
+          "office": "mayor",
+          "loaderParams": {
+            "ballotImage": "Mayor-BallotImage.txt",
+            "contest": "3",
+            "masterLookup": "Mayor-MasterLookup.txt",
+            "zipFile": "Mayor.zip"
+          },
+          "candidates": null
+        },
+        {
+          "office": "sheriff",
+          "loaderParams": {
+            "ballotImage": "Sheriff-BallotImage.txt",
+            "contest": "2",
+            "masterLookup": "Sheriff-MasterLookUp.txt",
+            "zipFile": "Sheriff.zip"
+          },
+          "candidates": null
+        }
+      ],
       "files": {
         "DA.zip": "dcf512c7e6204e7f121275c45ef66f734a62dc1c",
         "Mayor.zip": "521a061ded9337a971037144cc6a80655e47f885",
@@ -94,7 +160,28 @@
       "dataFormat": "us_ca_sfo",
       "tabulation": "eager_irv",
       "normalization": "simple",
-      "contests": [],
+      "contests": [
+        {
+          "office": "supervisor-d05",
+          "loaderParams": {
+            "ballotImage": "D5-BallotImage.txt",
+            "contest": "22",
+            "masterLookup": "D5-MasterLookup.txt",
+            "zipFile": "D5.zip"
+          },
+          "candidates": null
+        },
+        {
+          "office": "supervisor-d07",
+          "loaderParams": {
+            "ballotImage": "D7-BallotImage.txt",
+            "contest": "23",
+            "masterLookup": "D7-MasterLookup.txt",
+            "zipFile": "D7.zip"
+          },
+          "candidates": null
+        }
+      ],
       "files": {
         "D5.zip": "feee735b1bb405bf69e0e1a52ace630f4e27369c",
         "D7.zip": "02b7bbddda09f716d00380c6922778ada248717a"
@@ -107,7 +194,18 @@
       "dataFormat": "us_ca_sfo",
       "tabulation": "eager_irv",
       "normalization": "simple",
-      "contests": [],
+      "contests": [
+        {
+          "office": "supervisor-d10",
+          "loaderParams": {
+            "ballotImage": "D10_BallotImage.txt",
+            "contest": "33",
+            "masterLookup": "D10_MasterLookup.txt",
+            "zipFile": "D10.zip"
+          },
+          "candidates": null
+        }
+      ],
       "files": {
         "D10.zip": "8e902269c9646c863ca5839560b26060fa7fa884"
       },
@@ -126,7 +224,8 @@
             "ballotImage": "20151119_ballotimage.txt",
             "contest": "1",
             "masterLookup": "20151119_masterlookup.txt"
-          }
+          },
+          "candidates": null
         },
         {
           "office": "sheriff",
@@ -134,7 +233,8 @@
             "ballotImage": "20151119_ballotimage.txt",
             "contest": "2",
             "masterLookup": "20151119_masterlookup.txt"
-          }
+          },
+          "candidates": null
         },
         {
           "office": "supervisor-d03",
@@ -142,7 +242,8 @@
             "ballotImage": "20151119_ballotimage.txt",
             "contest": "3",
             "masterLookup": "20151119_masterlookup.txt"
-          }
+          },
+          "candidates": null
         }
       ],
       "files": {
