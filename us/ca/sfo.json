@@ -6,6 +6,9 @@
     "assessor": {
       "name": "Assessor-Recorder"
     },
+    "city-atty": {
+      "name": "City Attorney"
+    },
     "da": {
       "name": "District Attorney"
     },
@@ -50,9 +53,95 @@
     },
     "supervisor-d11": {
       "name": "Board of Supervisors, District 11"
+    },
+    "treasurer": {
+      "name": "Treasurer"
     }
   },
   "elections": {
+    "2008/11": {
+      "name": "2008 Consolidated Presidential General Election",
+      "date": "2008-11-04",
+      "dataFormat": "us_ca_sfo",
+      "tabulation": "eager_irv",
+      "normalization": "simple",
+      "contests": [
+        {
+          "office": "supervisor-d01",
+          "loaderParams": {
+            "ballotImage": "CityWide_Ballot_Image.txt",
+            "contest": "3",
+            "masterLookup": "CityWide_MasterLookup.txt",
+            "zipFile": "Nov08_RCV_CityWide_BallotImage_20081202.zip"
+          },
+          "candidates": null
+        },
+        {
+          "office": "supervisor-d03",
+          "loaderParams": {
+            "ballotImage": "CityWide_Ballot_Image.txt",
+            "contest": "5",
+            "masterLookup": "CityWide_MasterLookup.txt",
+            "zipFile": "Nov08_RCV_CityWide_BallotImage_20081202.zip"
+          },
+          "candidates": null
+        },
+        {
+          "office": "supervisor-d04",
+          "loaderParams": {
+            "ballotImage": "CityWide_Ballot_Image.txt",
+            "contest": "6",
+            "masterLookup": "CityWide_MasterLookup.txt",
+            "zipFile": "Nov08_RCV_CityWide_BallotImage_20081202.zip"
+          },
+          "candidates": null
+        },
+        {
+          "office": "supervisor-d05",
+          "loaderParams": {
+            "ballotImage": "CityWide_Ballot_Image.txt",
+            "contest": "7",
+            "masterLookup": "CityWide_MasterLookup.txt",
+            "zipFile": "Nov08_RCV_CityWide_BallotImage_20081202.zip"
+          },
+          "candidates": null
+        },
+        {
+          "office": "supervisor-d07",
+          "loaderParams": {
+            "ballotImage": "CityWide_Ballot_Image.txt",
+            "contest": "8",
+            "masterLookup": "CityWide_MasterLookup.txt",
+            "zipFile": "Nov08_RCV_CityWide_BallotImage_20081202.zip"
+          },
+          "candidates": null
+        },
+        {
+          "office": "supervisor-d09",
+          "loaderParams": {
+            "ballotImage": "CityWide_Ballot_Image.txt",
+            "contest": "9",
+            "masterLookup": "CityWide_MasterLookup.txt",
+            "zipFile": "Nov08_RCV_CityWide_BallotImage_20081202.zip"
+          },
+          "candidates": null
+        },
+        {
+          "office": "supervisor-d11",
+          "loaderParams": {
+            "ballotImage": "CityWide_Ballot_Image.txt",
+            "contest": "4",
+            "masterLookup": "CityWide_MasterLookup.txt",
+            "zipFile": "Nov08_RCV_CityWide_BallotImage_20081202.zip"
+          },
+          "candidates": null
+        }
+      ],
+      "files": {
+        "Nov08_RCV_CityWide_BallotImage_20081202.zip": "9db466fc92eedc743f4672f624b080f824379089"
+      },
+      "website": "https://sfelections.sfgov.org/election-summary-november-4-2008"
+    },
     "2010/11": {
       "name": "2010 Consolidated General Election",
       "date": "2010-11-02",
@@ -441,10 +530,60 @@
     "2019/11": {
       "name": "Consolidated Municipal Election",
       "date": "2019-11-05",
-      "dataFormat": "us_ca_sfo",
+      "dataFormat": "nist_sp_1500",
       "tabulation": "eager_irv",
       "normalization": "simple",
-      "contests": [],
+      "contests": [
+        {
+          "office": "mayor",
+          "loaderParams": {
+            "cvr": "CVR_Export_20191125163446.zip",
+            "contest": "334"
+          }
+        },
+        {
+          "office": "supervisor-d05",
+          "loaderParams": {
+            "cvr": "CVR_Export_20191125163446.zip",
+            "contest": "353"
+          }
+        },
+        {
+          "office": "city-atty",
+          "loaderParams": {
+            "cvr": "CVR_Export_20191125163446.zip",
+            "contest": "352"
+          }
+        },
+        {
+          "office": "da",
+          "loaderParams": {
+            "cvr": "CVR_Export_20191125163446.zip",
+            "contest": "339"
+          }
+        },
+        {
+          "office": "defender",
+          "loaderParams": {
+            "cvr": "CVR_Export_20191125163446.zip",
+            "contest": "360"
+          }
+        },
+        {
+          "office": "sheriff",
+          "loaderParams": {
+            "cvr": "CVR_Export_20191125163446.zip",
+            "contest": "350"
+          }
+        },
+        {
+          "office": "treasurer",
+          "loaderParams": {
+            "cvr": "CVR_Export_20191125163446.zip",
+            "contest": "349"
+          }
+        }
+      ],
       "files": {
         "CVR_Export_20191125163446.zip": "bcaae1c5f57a367af861cc267c5e252a7786049a"
       },
