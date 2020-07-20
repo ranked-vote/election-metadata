@@ -537,51 +537,58 @@
         {
           "office": "mayor",
           "loaderParams": {
-            "cvr": "CVR_Export_20191125163446.zip",
-            "contest": "334"
-          }
+            "contest": "334",
+            "cvr": "CVR_Export_20191125163446.zip"
+          },
+          "candidates": null
         },
         {
           "office": "supervisor-d05",
           "loaderParams": {
-            "cvr": "CVR_Export_20191125163446.zip",
-            "contest": "353"
-          }
+            "contest": "353",
+            "cvr": "CVR_Export_20191125163446.zip"
+          },
+          "candidates": null
         },
         {
           "office": "city-atty",
           "loaderParams": {
-            "cvr": "CVR_Export_20191125163446.zip",
-            "contest": "352"
-          }
+            "contest": "352",
+            "cvr": "CVR_Export_20191125163446.zip"
+          },
+          "candidates": null
         },
         {
           "office": "da",
           "loaderParams": {
-            "cvr": "CVR_Export_20191125163446.zip",
-            "contest": "339"
-          }
+            "contest": "339",
+            "cvr": "CVR_Export_20191125163446.zip"
+          },
+          "candidates": null
         },
         {
           "office": "defender",
           "loaderParams": {
-            "cvr": "CVR_Export_20191125163446.zip",
-            "contest": "360"
-          }
+            "contest": "360",
+            "cvr": "CVR_Export_20191125163446.zip"
+          },
+          "candidates": null
         },
         {
           "office": "sheriff",
           "loaderParams": {
-            "cvr": "CVR_Export_20191125163446.zip",
-            "contest": "350"
-          }
+            "contest": "350",
+            "cvr": "CVR_Export_20191125163446.zip"
+          },
+          "candidates": null
         },
         {
           "office": "treasurer",
           "loaderParams": {
-            "cvr": "CVR_Export_20191125163446.zip",
-            "contest": "349"
-          }
+            "contest": "349",
+            "cvr": "CVR_Export_20191125163446.zip"
+          },
+          "candidates": null
         }
       ],
       "files": {
