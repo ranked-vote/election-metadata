@@ -1,0 +1,96 @@
+{
+  "name": "Maine",
+  "path": "us/me",
+  "kind": "state",
+  "offices": {
+    "cd01": {
+      "name": "Congressional District 1"
+    },
+    "cd01-primary-dem": {
+      "name": "Congressional District 1 - Democrat"
+    },
+    "cd02": {
+      "name": "Congressional District 2"
+    },
+    "cd02-primary-dem": {
+      "name": "Congressional District 2 - Democrat"
+    },
+    "gov": {
+      "name": "Governor"
+    }
+  },
+  "elections": {
+    "2018/06": {
+      "name": "2018 Primary Election",
+      "date": "2018-06-12",
+      "dataFormat": "us_me",
+      "tabulation": "eager_irv",
+      "normalization": "maine",
+      "contests": [
+        {
+          "office": "cd02-primary-dem",
+          "loaderParams": {
+            "files": "congressd2-1.xlsx;congressd2-2.xlsx;congressd2-3.xlsx;congressd2-4.xlsx"
+          },
+          "candidates": null
+        },
+        {
+          "office": "gov",
+          "loaderParams": {
+            "files": "govd-1.xlsx;govd-2.xlsx;govd-3.xlsx;govd-4.xlsx;govd-5.xlsx"
+          },
+          "candidates": null
+        }
+      ],
+      "files": {
+        "congressd2-1.xlsx": "f786b367746fdd4dca007de54e6e3885cb2a4b7a",
+        "congressd2-2.xlsx": "4ac61981e6710d413ba4a4c7f6d83c6af342b679",
+        "congressd2-3.xlsx": "8385c8d36ecbcadef405aee0f67d5f4bbde3bea7",
+        "congressd2-4.xlsx": "d1940f36c21191411141db9bb27166419e78f2e3",
+        "govd-1.xlsx": "e2005438e7df7d31da7c779e64fc21d1c8dab0fa",
+        "govd-2.xlsx": "1ba44a180dcbd5828c0ae23e6740d4c20f74953e",
+        "govd-3.xlsx": "cca35ca455a1020ede3b52473ed9ded924d1d1a9",
+        "govd-4.xlsx": "76f1ac0501f4ec24557a389d7947da2ddedf41e2",
+        "govd-5.xlsx": "d3433bb08666bb7bcfb27cd706b1ecfebf048dfa"
+      },
+      "website": "https://www.maine.gov/sos/cec/elec/results/results18.html#june18"
+    },
+    "2018/11": {
+      "name": "2018 General Election",
+      "date": "2018-11-06",
+      "dataFormat": "us_me",
+      "tabulation": "eager_irv",
+      "normalization": "maine",
+      "contests": [
+        {
+          "office": "cd02",
+          "loaderParams": {
+            "files": "Nov18CVRExportFINAL1.xlsx;Nov18CVRExportFINAL2.xlsx;Nov18CVRExportFINAL3.xlsx;AUXCVRProofedCVR95RepCD2.xlsx;RepCD2-8final.xlsx;UOCAVA-AUX-CVRRepCD2.xlsx;UOCAVA-FINALRepCD2.xlsx;UOCAVA2CVRRepCD2.xlsx"
+          },
+          "candidates": null
+        }
+      ],
+      "files": {
+        "AUXCVRProofedCVR95RepCD2.xlsx": "7c71574723e61c0eb1e13eea57c47eb24384da07",
+        "Nov18CVRExportFINAL1.xlsx": "196513adbe019a623d69bce3914b7135a021a3ac",
+        "Nov18CVRExportFINAL2.xlsx": "9defa6da5adc481eac2bb72a348583b6eddaf1d6",
+        "Nov18CVRExportFINAL3.xlsx": "7f3f7a539b119a14396f7df1c52a6a3128e2087d",
+        "RepCD2-8final.xlsx": "b0911053cfe6d144ec82fbeb637d6c555a31a4fb",
+        "UOCAVA-AUX-CVRRepCD2.xlsx": "593f0ee1a5f7a74082d59e097a30bcc2f9c29d2e",
+        "UOCAVA-FINALRepCD2.xlsx": "710675ddef04b546b95ba2ddf305369742e73e6d",
+        "UOCAVA2CVRRepCD2.xlsx": "1ab98cfb6bd40b9b80ba2e6cec894abd5b7ecac7"
+      },
+      "website": "https://www.maine.gov/sos/cec/elec/results/results18.html#Nov6"
+    },
+    "2020/07": {
+      "name": "2020 Primary Election",
+      "date": "2020-07-14",
+      "dataFormat": "us_me",
+      "tabulation": "eager_irv",
+      "normalization": "maine",
+      "contests": [],
+      "files": {},
+      "website": "https://www.maine.gov/sos/cec/elec/results/results20.html#julytab"
+    }
+  }
+}

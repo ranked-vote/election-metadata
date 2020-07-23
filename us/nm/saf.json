@@ -3,16 +3,16 @@
   "path": "us/nm/saf",
   "kind": "municipal",
   "offices": {
-    "cd1": {
+    "dc1": {
       "name": "District 1 Councilor"
     },
-    "cd2": {
+    "dc2": {
       "name": "District 2 Councilor"
     },
-    "cd3": {
+    "dc3": {
       "name": "District 3 Councilor"
     },
-    "cd4": {
+    "dc4": {
       "name": "District 4 Councilor"
     },
     "mayor": {
@@ -36,7 +36,7 @@
           "candidates": null
         },
         {
-          "office": "cd1",
+          "office": "dc1",
           "loaderParams": {
             "contest": "2",
             "cvr": "CVR_Export_20180306233748.zip"
@@ -44,7 +44,7 @@
           "candidates": null
         },
         {
-          "office": "cd2",
+          "office": "dc2",
           "loaderParams": {
             "contest": "3",
             "cvr": "CVR_Export_20180306233748.zip"
@@ -52,7 +52,7 @@
           "candidates": null
         },
         {
-          "office": "cd3",
+          "office": "dc3",
           "loaderParams": {
             "contest": "4",
             "cvr": "CVR_Export_20180306233748.zip"
@@ -60,7 +60,7 @@
           "candidates": null
         },
         {
-          "office": "cd4",
+          "office": "dc4",
           "loaderParams": {
             "contest": "5",
             "cvr": "CVR_Export_20180306233748.zip"
