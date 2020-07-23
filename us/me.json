@@ -15,6 +15,12 @@
     "cd02-primary-dem": {
       "name": "Congressional District 2 - Democrat"
     },
+    "cd01-primary-rep": {
+      "name": "Congressional District 1 - Republican"
+    },
+    "cd02-primary-rep": {
+      "name": "Congressional District 2 - Republican"
+    },
     "gov": {
       "name": "Governor"
     }
@@ -88,8 +94,36 @@
       "dataFormat": "us_me",
       "tabulation": "eager_irv",
       "normalization": "maine",
-      "contests": [],
-      "files": {},
+      "contests": [
+        {
+          "office": "cd02-primary-rep",
+          "loaderParams": {
+            "files": "cg2-1.xlsx;cg2-2.xlsx;cg2-3.xlsx;cg2-4.xlsx;cg2-uocava.xlsx"
+          }
+        }
+      ],
+      "files": {
+        "cg2-1.xlsx": "40b899adb424cc9ac025aadb923771c3816866ff",
+        "cg2-2.xlsx": "f98317836b51824866f2684d19a684d3462376b1",
+        "cg2-3.xlsx": "40582201a75260763efa7b3f0e98a283a3e3fdc8",
+        "cg2-4.xlsx": "59ff845bc0be2ce13bf6921bd811b0adea0b7b8a",
+        "cg2-uocava.xlsx": "ae85cdac0cae93fff981eb0b821010c464d2bd47",
+        "sr41-1.xlsx": "c5652538d4f51ba9e6d6c509d66e308835aa016e",
+        "sr41-2.xlsx": "980b923092d14338a163ca141870e5f921c2d168",
+        "sr41-uocava.xlsx": "1e61a79da70858808edfe267182b542f06e7c3c8",
+        "sr47-1.xlsx": "ef417f0f8e3637822bc714b308b374f066e0b33f",
+        "sr47-2.xlsx": "73be8c14f12fc5890e8d2592d2bd994b4db67584",
+        "sr47-uocava.xlsx": "ffdf34ea2b24d559fd3317ad7d0faaf6654ded0c",
+        "sr49-1.xlsx": "ec3e63e17f5b97066671735790dfc969ed4cc9e1",
+        "sr49-2.xlsx": "e1a0bbbf49edfa35bff6e41ef1979d5ff794c0e4",
+        "sr49-uocava.xlsx": "62871f5da2df23fa53c2d148f7f217fd2f42c3b2",
+        "sr90-1.xlsx": "4c9ea865fe64e615ada3a74353fbb86011344345",
+        "sr90-2.xlsx": "afcc08cf795400e75f29a9d0e880e5f511a05139",
+        "sr90-uocava.xlsx": "d47891489f4f99df1be9255554edaf6f7e40e37a",
+        "ss11-1.xlsx": "0a8fc826d7efc9f0c28b4f7d2ad03767c9c2ebf0",
+        "ss11-2.xlsx": "9150fd6c981b2c0997a1545020ba5c127b2374a4",
+        "ss11-uocava.xlsx": "0a1123c7ff7c81a5b264a15b27df72e76fe30ef7"
+      },
       "website": "https://www.maine.gov/sos/cec/elec/results/results20.html#julytab"
     }
   }
