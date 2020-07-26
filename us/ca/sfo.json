@@ -60,7 +60,7 @@
   },
   "elections": {
     "2008/11": {
-      "name": "2008 Consolidated Presidential General Election",
+      "name": "Consolidated Presidential General Election",
       "date": "2008-11-04",
       "dataFormat": "us_ca_sfo",
       "tabulation": "eager_irv",
@@ -143,7 +143,7 @@
       "website": "https://sfelections.sfgov.org/election-summary-november-4-2008"
     },
     "2010/11": {
-      "name": "2010 Consolidated General Election",
+      "name": "Consolidated General Election",
       "date": "2010-11-02",
       "dataFormat": "us_ca_sfo",
       "tabulation": "eager_irv",
@@ -199,7 +199,7 @@
       "website": "https://sfelections.org/results/20101102/"
     },
     "2011/11": {
-      "name": "2011 Consolidated Municipal Election",
+      "name": "Consolidated Municipal Election",
       "date": "2011-11-08",
       "dataFormat": "us_ca_sfo",
       "tabulation": "eager_irv",
@@ -244,7 +244,7 @@
       "website": "https://sfelections.org/results/20111108/"
     },
     "2012/11": {
-      "name": "2012 Consolidated General Election",
+      "name": "Consolidated General Election",
       "date": "2012-11-06",
       "dataFormat": "us_ca_sfo",
       "tabulation": "eager_irv",
@@ -278,7 +278,7 @@
       "website": "https://sfelections.org/results/20121106/index.php#english_detail"
     },
     "2014/11": {
-      "name": "2014 Consolidated General Election",
+      "name": "Consolidated General Election",
       "date": "2014-11-04",
       "dataFormat": "us_ca_sfo",
       "tabulation": "eager_irv",
@@ -301,7 +301,7 @@
       "website": "https://www.sfelections.org/results/20141104/#english_detail"
     },
     "2015/11": {
-      "name": "2015 Consolidated Municipal Election",
+      "name": "Consolidated Municipal Election",
       "date": "2015-11-03",
       "dataFormat": "us_ca_sfo",
       "tabulation": "eager_irv",
@@ -342,7 +342,7 @@
       "website": "https://sfelections.org/results/20151103/#english_detail"
     },
     "2016/11": {
-      "name": "2016 Consolidated General Election",
+      "name": "Consolidated General Election",
       "date": "2016-11-08",
       "dataFormat": "us_ca_sfo",
       "tabulation": "eager_irv",
@@ -411,7 +411,7 @@
       "website": "https://sfelections.sfgov.org/november-8-2016-election-results-detailed-reports"
     },
     "2018/06": {
-      "name": "2018 Consolidated Statewide Primary Election",
+      "name": "Consolidated Statewide Primary Election",
       "date": "2018-06-05",
       "dataFormat": "us_ca_sfo",
       "tabulation": "eager_irv",
@@ -444,7 +444,7 @@
       "website": "https://sfelections.sfgov.org/june-5-2018-election-results-detailed-reports"
     },
     "2018/11": {
-      "name": "2018 General Election",
+      "name": "General Election",
       "date": "2018-11-06",
       "dataFormat": "us_ca_sfo",
       "tabulation": "eager_irv",

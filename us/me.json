@@ -27,7 +27,7 @@
   },
   "elections": {
     "2018/06": {
-      "name": "2018 Primary Election",
+      "name": "Primary Election",
       "date": "2018-06-12",
       "dataFormat": "us_me",
       "tabulation": "eager_irv",
@@ -62,7 +62,7 @@
       "website": "https://www.maine.gov/sos/cec/elec/results/results18.html#june18"
     },
     "2018/11": {
-      "name": "2018 General Election",
+      "name": "General Election",
       "date": "2018-11-06",
       "dataFormat": "us_me",
       "tabulation": "eager_irv",
@@ -89,7 +89,7 @@
       "website": "https://www.maine.gov/sos/cec/elec/results/results18.html#Nov6"
     },
     "2020/07": {
-      "name": "2020 Primary Election",
+      "name": "Primary Election",
       "date": "2020-07-14",
       "dataFormat": "us_me",
       "tabulation": "eager_irv",

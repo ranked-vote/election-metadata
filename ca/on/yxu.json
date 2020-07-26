@@ -51,7 +51,7 @@
   },
   "elections": {
     "2018/10": {
-      "name": "2018 Municipal Election",
+      "name": "Municipal Election",
       "date": "2018-10-22",
       "dataFormat": "dominion_rcr",
       "tabulation": "eager_irv",
