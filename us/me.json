@@ -9,23 +9,20 @@
     "cd01-primary-dem": {
       "name": "Congressional District 1 (D)"
     },
+    "cd01-primary-rep": {
+      "name": "Congressional District 1 (R)"
+    },
     "cd02": {
       "name": "Congressional District 2"
     },
     "cd02-primary-dem": {
       "name": "Congressional District 2 (D)"
     },
-    "cd01-primary-rep": {
-      "name": "Congressional District 1 (R)"
-    },
     "cd02-primary-rep": {
       "name": "Congressional District 2 (R)"
     },
     "gov": {
       "name": "Governor"
-    },
-    "ss11-dem": {
-      "name": "State Senate - District 11 (D)"
     },
     "sr41-dem": {
       "name": "State Representative - District 41 (D)"
@@ -38,6 +35,9 @@
     },
     "sr90-dem": {
       "name": "State Representative - District 90 (D)"
+    },
+    "ss11-dem": {
+      "name": "State Senate - District 11 (D)"
     }
   },
   "elections": {
@@ -52,15 +52,13 @@
           "office": "cd02-primary-dem",
           "loaderParams": {
             "files": "congressd2-1.xlsx;congressd2-2.xlsx;congressd2-3.xlsx;congressd2-4.xlsx"
-          },
-          "candidates": null
+          }
         },
         {
           "office": "gov",
           "loaderParams": {
             "files": "govd-1.xlsx;govd-2.xlsx;govd-3.xlsx;govd-4.xlsx;govd-5.xlsx"
-          },
-          "candidates": null
+          }
         }
       ],
       "files": {
@@ -87,8 +85,7 @@
           "office": "cd02",
           "loaderParams": {
             "files": "Nov18CVRExportFINAL1.xlsx;Nov18CVRExportFINAL2.xlsx;Nov18CVRExportFINAL3.xlsx;AUXCVRProofedCVR95RepCD2.xlsx;RepCD2-8final.xlsx;UOCAVA-AUX-CVRRepCD2.xlsx;UOCAVA-FINALRepCD2.xlsx;UOCAVA2CVRRepCD2.xlsx"
-          },
-          "candidates": null
+          }
         }
       ],
       "files": {

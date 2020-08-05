@@ -32,40 +32,35 @@
           "loaderParams": {
             "contest": "1",
             "cvr": "CVR_Export_20180306233748.zip"
-          },
-          "candidates": null
+          }
         },
         {
           "office": "dc1",
           "loaderParams": {
             "contest": "2",
             "cvr": "CVR_Export_20180306233748.zip"
-          },
-          "candidates": null
+          }
         },
         {
           "office": "dc2",
           "loaderParams": {
             "contest": "3",
             "cvr": "CVR_Export_20180306233748.zip"
-          },
-          "candidates": null
+          }
         },
         {
           "office": "dc3",
           "loaderParams": {
             "contest": "4",
             "cvr": "CVR_Export_20180306233748.zip"
-          },
-          "candidates": null
+          }
         },
         {
           "office": "dc4",
           "loaderParams": {
             "contest": "5",
             "cvr": "CVR_Export_20180306233748.zip"
-          },
-          "candidates": null
+          }
         }
       ],
       "files": {

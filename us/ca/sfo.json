@@ -73,8 +73,7 @@
             "contest": "3",
             "masterLookup": "CityWide_MasterLookup.txt",
             "zipFile": "Nov08_RCV_CityWide_BallotImage_20081202.zip"
-          },
-          "candidates": null
+          }
         },
         {
           "office": "supervisor-d03",
@@ -83,8 +82,7 @@
             "contest": "5",
             "masterLookup": "CityWide_MasterLookup.txt",
             "zipFile": "Nov08_RCV_CityWide_BallotImage_20081202.zip"
-          },
-          "candidates": null
+          }
         },
         {
           "office": "supervisor-d04",
@@ -93,8 +91,7 @@
             "contest": "6",
             "masterLookup": "CityWide_MasterLookup.txt",
             "zipFile": "Nov08_RCV_CityWide_BallotImage_20081202.zip"
-          },
-          "candidates": null
+          }
         },
         {
           "office": "supervisor-d05",
@@ -103,8 +100,7 @@
             "contest": "7",
             "masterLookup": "CityWide_MasterLookup.txt",
             "zipFile": "Nov08_RCV_CityWide_BallotImage_20081202.zip"
-          },
-          "candidates": null
+          }
         },
         {
           "office": "supervisor-d07",
@@ -113,8 +109,7 @@
             "contest": "8",
             "masterLookup": "CityWide_MasterLookup.txt",
             "zipFile": "Nov08_RCV_CityWide_BallotImage_20081202.zip"
-          },
-          "candidates": null
+          }
         },
         {
           "office": "supervisor-d09",
@@ -123,8 +118,7 @@
             "contest": "9",
             "masterLookup": "CityWide_MasterLookup.txt",
             "zipFile": "Nov08_RCV_CityWide_BallotImage_20081202.zip"
-          },
-          "candidates": null
+          }
         },
         {
           "office": "supervisor-d11",
@@ -133,8 +127,7 @@
             "contest": "4",
             "masterLookup": "CityWide_MasterLookup.txt",
             "zipFile": "Nov08_RCV_CityWide_BallotImage_20081202.zip"
-          },
-          "candidates": null
+          }
         }
       ],
       "files": {
@@ -156,8 +149,7 @@
             "contest": "7",
             "masterLookup": "MasterLookup-D2.txt",
             "zipFile": "D2.zip"
-          },
-          "candidates": null
+          }
         },
         {
           "office": "supervisor-d06",
@@ -166,8 +158,7 @@
             "contest": "9",
             "masterLookup": "MasterLookup-D6.txt",
             "zipFile": "D6.zip"
-          },
-          "candidates": null
+          }
         },
         {
           "office": "supervisor-d08",
@@ -176,8 +167,7 @@
             "contest": "10",
             "masterLookup": "MasterLookup-D8.txt",
             "zipFile": "D8.zip"
-          },
-          "candidates": null
+          }
         },
         {
           "office": "supervisor-d10",
@@ -186,8 +176,7 @@
             "contest": "6",
             "masterLookup": "MasterLookup-D10.txt",
             "zipFile": "D10.zip"
-          },
-          "candidates": null
+          }
         }
       ],
       "files": {
@@ -212,8 +201,7 @@
             "contest": "1",
             "masterLookup": "DA-MasterLookUp.txt",
             "zipFile": "DA.zip"
-          },
-          "candidates": null
+          }
         },
         {
           "office": "mayor",
@@ -222,8 +210,7 @@
             "contest": "3",
             "masterLookup": "Mayor-MasterLookup.txt",
             "zipFile": "Mayor.zip"
-          },
-          "candidates": null
+          }
         },
         {
           "office": "sheriff",
@@ -232,8 +219,7 @@
             "contest": "2",
             "masterLookup": "Sheriff-MasterLookUp.txt",
             "zipFile": "Sheriff.zip"
-          },
-          "candidates": null
+          }
         }
       ],
       "files": {
@@ -257,8 +243,7 @@
             "contest": "22",
             "masterLookup": "D5-MasterLookup.txt",
             "zipFile": "D5.zip"
-          },
-          "candidates": null
+          }
         },
         {
           "office": "supervisor-d07",
@@ -267,8 +252,7 @@
             "contest": "23",
             "masterLookup": "D7-MasterLookup.txt",
             "zipFile": "D7.zip"
-          },
-          "candidates": null
+          }
         }
       ],
       "files": {
@@ -291,8 +275,7 @@
             "contest": "33",
             "masterLookup": "D10_MasterLookup.txt",
             "zipFile": "D10.zip"
-          },
-          "candidates": null
+          }
         }
       ],
       "files": {
@@ -313,8 +296,7 @@
             "ballotImage": "20151119_ballotimage.txt",
             "contest": "1",
             "masterLookup": "20151119_masterlookup.txt"
-          },
-          "candidates": null
+          }
         },
         {
           "office": "sheriff",
@@ -322,8 +304,7 @@
             "ballotImage": "20151119_ballotimage.txt",
             "contest": "2",
             "masterLookup": "20151119_masterlookup.txt"
-          },
-          "candidates": null
+          }
         },
         {
           "office": "supervisor-d03",
@@ -331,8 +312,7 @@
             "ballotImage": "20151119_ballotimage.txt",
             "contest": "3",
             "masterLookup": "20151119_masterlookup.txt"
-          },
-          "candidates": null
+          }
         }
       ],
       "files": {
@@ -354,8 +334,7 @@
             "ballotImage": "20161206_ballotimage.txt",
             "contest": "9",
             "masterLookup": "20161206_masterlookup.txt"
-          },
-          "candidates": null
+          }
         },
         {
           "office": "supervisor-d03",
@@ -363,8 +342,7 @@
             "ballotImage": "20161206_ballotimage.txt",
             "contest": "10",
             "masterLookup": "20161206_masterlookup.txt"
-          },
-          "candidates": null
+          }
         },
         {
           "office": "supervisor-d05",
@@ -372,8 +350,7 @@
             "ballotImage": "20161206_ballotimage.txt",
             "contest": "11",
             "masterLookup": "20161206_masterlookup.txt"
-          },
-          "candidates": null
+          }
         },
         {
           "office": "supervisor-d07",
@@ -381,8 +358,7 @@
             "ballotImage": "20161206_ballotimage.txt",
             "contest": "12",
             "masterLookup": "20161206_masterlookup.txt"
-          },
-          "candidates": null
+          }
         },
         {
           "office": "supervisor-d09",
@@ -390,8 +366,7 @@
             "ballotImage": "20161206_ballotimage.txt",
             "contest": "13",
             "masterLookup": "20161206_masterlookup.txt"
-          },
-          "candidates": null
+          }
         },
         {
           "office": "supervisor-d11",
@@ -399,8 +374,7 @@
             "ballotImage": "20161206_ballotimage.txt",
             "contest": "14",
             "masterLookup": "20161206_masterlookup.txt"
-          },
-          "candidates": null
+          }
         }
       ],
       "files": {
@@ -423,8 +397,7 @@
             "ballotImage": "20180627_ballotimage.txt",
             "contest": "20",
             "masterLookup": "20180627_masterlookup.txt"
-          },
-          "candidates": null
+          }
         },
         {
           "office": "supervisor-d08",
@@ -432,8 +405,7 @@
             "ballotImage": "20180627_ballotimage.txt",
             "contest": "21",
             "masterLookup": "20180627_masterlookup.txt"
-          },
-          "candidates": null
+          }
         }
       ],
       "files": {
@@ -456,8 +428,7 @@
             "ballotImage": "20181127_assessor_ballotimage.txt",
             "contest": "29",
             "masterLookup": "20181127_masterlookup.txt"
-          },
-          "candidates": null
+          }
         },
         {
           "office": "defender",
@@ -465,8 +436,7 @@
             "ballotImage": "20181127_defender_ballotimage.txt",
             "contest": "32",
             "masterLookup": "20181127_masterlookup.txt"
-          },
-          "candidates": null
+          }
         },
         {
           "office": "supervisor-d02",
@@ -474,8 +444,7 @@
             "ballotImage": "20181127_d2_ballotimage.txt",
             "contest": "35",
             "masterLookup": "20181127_masterlookup.txt"
-          },
-          "candidates": null
+          }
         },
         {
           "office": "supervisor-d04",
@@ -483,8 +452,7 @@
             "ballotImage": "20181127_d4_ballotimage.txt",
             "contest": "36",
             "masterLookup": "20181127_masterlookup.txt"
-          },
-          "candidates": null
+          }
         },
         {
           "office": "supervisor-d06",
@@ -492,8 +460,7 @@
             "ballotImage": "20181127_d6_ballotimage.txt",
             "contest": "37",
             "masterLookup": "20181127_masterlookup.txt"
-          },
-          "candidates": null
+          }
         },
         {
           "office": "supervisor-d08",
@@ -501,8 +468,7 @@
             "ballotImage": "20181127_d8_ballotimage.txt",
             "contest": "38",
             "masterLookup": "20181127_masterlookup.txt"
-          },
-          "candidates": null
+          }
         },
         {
           "office": "supervisor-d10",
@@ -510,8 +476,7 @@
             "ballotImage": "20181127_d10_ballotimage.txt",
             "contest": "39",
             "masterLookup": "20181127_masterlookup.txt"
-          },
-          "candidates": null
+          }
         }
       ],
       "files": {
@@ -539,56 +504,49 @@
           "loaderParams": {
             "contest": "334",
             "cvr": "CVR_Export_20191125163446.zip"
-          },
-          "candidates": null
+          }
         },
         {
           "office": "supervisor-d05",
           "loaderParams": {
             "contest": "353",
             "cvr": "CVR_Export_20191125163446.zip"
-          },
-          "candidates": null
+          }
         },
         {
           "office": "city-atty",
           "loaderParams": {
             "contest": "352",
             "cvr": "CVR_Export_20191125163446.zip"
-          },
-          "candidates": null
+          }
         },
         {
           "office": "da",
           "loaderParams": {
             "contest": "339",
             "cvr": "CVR_Export_20191125163446.zip"
-          },
-          "candidates": null
+          }
         },
         {
           "office": "defender",
           "loaderParams": {
             "contest": "360",
             "cvr": "CVR_Export_20191125163446.zip"
-          },
-          "candidates": null
+          }
         },
         {
           "office": "sheriff",
           "loaderParams": {
             "contest": "350",
             "cvr": "CVR_Export_20191125163446.zip"
-          },
-          "candidates": null
+          }
         },
         {
           "office": "treasurer",
           "loaderParams": {
             "contest": "349",
             "cvr": "CVR_Export_20191125163446.zip"
-          },
-          "candidates": null
+          }
         }
       ],
       "files": {

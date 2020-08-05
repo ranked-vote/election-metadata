@@ -61,106 +61,91 @@
           "office": "mayor",
           "loaderParams": {
             "rcr": "1 Mayor.rcr"
-          },
-          "candidates": null
+          }
         },
         {
           "office": "cw01",
           "loaderParams": {
             "rcr": "2 Councillor Ward 1.rcr"
-          },
-          "candidates": null
+          }
         },
         {
           "office": "cw02",
           "loaderParams": {
             "rcr": "3 Councillor Ward 2.rcr"
-          },
-          "candidates": null
+          }
         },
         {
           "office": "cw03",
           "loaderParams": {
             "rcr": "4 Councillor Ward 3.rcr"
-          },
-          "candidates": null
+          }
         },
         {
           "office": "cw04",
           "loaderParams": {
             "rcr": "5 Councillor Ward 4.rcr"
-          },
-          "candidates": null
+          }
         },
         {
           "office": "cw05",
           "loaderParams": {
             "rcr": "7 Councillor Ward 5.rcr"
-          },
-          "candidates": null
+          }
         },
         {
           "office": "cw06",
           "loaderParams": {
             "rcr": "8 Councillor Ward 6.rcr"
-          },
-          "candidates": null
+          }
         },
         {
           "office": "cw07",
           "loaderParams": {
             "rcr": "9 Councillor Ward 7.rcr"
-          },
-          "candidates": null
+          }
         },
         {
           "office": "cw08",
           "loaderParams": {
             "rcr": "10 Councillor Ward 8.rcr"
-          },
-          "candidates": null
+          }
         },
         {
           "office": "cw09",
           "loaderParams": {
             "rcr": "11 Councillor Ward 9.rcr"
-          },
-          "candidates": null
+          }
         },
         {
           "office": "cw10",
           "loaderParams": {
             "rcr": "12 Councillor Ward 10.rcr"
-          },
-          "candidates": null
+          }
         },
         {
           "office": "cw11",
           "loaderParams": {
             "rcr": "13 Councillor Ward 11.rcr"
-          },
-          "candidates": null
+          }
         },
         {
           "office": "cw12",
           "loaderParams": {
             "rcr": "14 Councillor Ward 12.rcr"
-          },
-          "candidates": null
+          }
         },
         {
           "office": "cw13",
           "loaderParams": {
             "rcr": "15 Councillor Ward 13.rcr"
-          },
-          "candidates": null
+          }
         },
         {
           "office": "cw14",
           "loaderParams": {
             "rcr": "16 Councillor Ward 14.rcr"
-          },
-          "candidates": null
+          }
         }
       ],
       "files": {
