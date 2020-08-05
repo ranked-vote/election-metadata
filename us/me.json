@@ -23,6 +23,21 @@
     },
     "gov": {
       "name": "Governor"
+    },
+    "ss11-dem": {
+      "name": "State Senate - District 11 - Democrat"
+    },
+    "sr41-dem": {
+      "name": "State Representative - District 41 - Democrat"
+    },
+    "sr47-dem": {
+      "name": "State Representative - District 47 - Democrat"
+    },
+    "sr49-dem": {
+      "name": "State Representative - District 49 - Democrat"
+    },
+    "sr90-dem": {
+      "name": "State Representative - District 90 - Democrat"
     }
   },
   "elections": {
@@ -99,6 +114,36 @@
           "office": "cd02-primary-rep",
           "loaderParams": {
             "files": "cg2-1.xlsx;cg2-2.xlsx;cg2-3.xlsx;cg2-4.xlsx;cg2-uocava.xlsx"
+          }
+        },
+        {
+          "office": "ss11-dem",
+          "loaderParams": {
+            "files": "ss11-1.xlsx;ss11-2.xlsx;ss11-uocava.xlsx"
+          }
+        },
+        {
+          "office": "sr41-dem",
+          "loaderParams": {
+            "files": "sr41-1.xlsx;sr41-2.xlsx;sr41-uocava.xlsx"
+          }
+        },
+        {
+          "office": "sr47-dem",
+          "loaderParams": {
+            "files": "sr47-1.xlsx;sr47-2.xlsx;sr47-uocava.xlsx"
+          }
+        },
+        {
+          "office": "sr49-dem",
+          "loaderParams": {
+            "files": "sr49-1.xlsx;sr49-2.xlsx;sr49-uocava.xlsx"
+          }
+        },
+        {
+          "office": "sr90-dem",
+          "loaderParams": {
+            "files": "sr90-1.xlsx;sr90-2.xlsx;sr90-uocava.xlsx"
           }
         }
       ],
