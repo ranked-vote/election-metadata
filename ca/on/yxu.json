@@ -54,7 +54,7 @@
       "name": "Municipal Election",
       "date": "2018-10-22",
       "dataFormat": "dominion_rcr",
-      "tabulation": "eager_irv",
+      "tabulationOptions": null,
       "normalization": "simple",
       "contests": [
         {

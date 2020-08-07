@@ -12,7 +12,7 @@
       "name": "Mayoral Election",
       "date": "2009-03-03",
       "dataFormat": "us_vt_btv",
-      "tabulation": "eager_irv",
+      "tabulationOptions": null,
       "normalization": "simple",
       "contests": [
         {

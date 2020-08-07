@@ -45,7 +45,7 @@
       "name": "Primary Election",
       "date": "2018-06-12",
       "dataFormat": "us_me",
-      "tabulation": "eager_irv",
+      "tabulationOptions": null,
       "normalization": "maine",
       "contests": [
         {
@@ -78,7 +78,7 @@
       "name": "General Election",
       "date": "2018-11-06",
       "dataFormat": "us_me",
-      "tabulation": "eager_irv",
+      "tabulationOptions": null,
       "normalization": "maine",
       "contests": [
         {
@@ -104,7 +104,7 @@
       "name": "Primary Election",
       "date": "2020-07-14",
       "dataFormat": "us_me",
-      "tabulation": "eager_irv",
+      "tabulationOptions": null,
       "normalization": "maine",
       "contests": [
         {
