@@ -496,58 +496,63 @@
       "name": "Consolidated Municipal Election",
       "date": "2019-11-05",
       "dataFormat": "nist_sp_1500",
-      "tabulationOptions": {
-        "excludeUnresolvedWriteins": true
-      },
+      "tabulationOptions": null,
       "normalization": "simple",
       "contests": [
         {
           "office": "mayor",
           "loaderParams": {
             "contest": "334",
-            "cvr": "CVR_Export_20191125163446.zip"
+            "cvr": "CVR_Export_20191125163446.zip",
+            "dropUnqualifiedWriteIn": "true"
           }
         },
         {
           "office": "supervisor-d05",
           "loaderParams": {
             "contest": "353",
-            "cvr": "CVR_Export_20191125163446.zip"
+            "cvr": "CVR_Export_20191125163446.zip",
+            "dropUnqualifiedWriteIn": "true"
           }
         },
         {
           "office": "city-atty",
           "loaderParams": {
             "contest": "352",
-            "cvr": "CVR_Export_20191125163446.zip"
+            "cvr": "CVR_Export_20191125163446.zip",
+            "dropUnqualifiedWriteIn": "true"
           }
         },
         {
           "office": "da",
           "loaderParams": {
             "contest": "339",
-            "cvr": "CVR_Export_20191125163446.zip"
+            "cvr": "CVR_Export_20191125163446.zip",
+            "dropUnqualifiedWriteIn": "true"
           }
         },
         {
           "office": "defender",
           "loaderParams": {
             "contest": "360",
-            "cvr": "CVR_Export_20191125163446.zip"
+            "cvr": "CVR_Export_20191125163446.zip",
+            "dropUnqualifiedWriteIn": "true"
           }
         },
         {
           "office": "sheriff",
           "loaderParams": {
             "contest": "350",
-            "cvr": "CVR_Export_20191125163446.zip"
+            "cvr": "CVR_Export_20191125163446.zip",
+            "dropUnqualifiedWriteIn": "true"
           }
         },
         {
           "office": "treasurer",
           "loaderParams": {
             "contest": "349",
-            "cvr": "CVR_Export_20191125163446.zip"
+            "cvr": "CVR_Export_20191125163446.zip",
+            "dropUnqualifiedWriteIn": "true"
           }
         }
       ],
