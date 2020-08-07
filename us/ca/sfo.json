@@ -496,7 +496,9 @@
       "name": "Consolidated Municipal Election",
       "date": "2019-11-05",
       "dataFormat": "nist_sp_1500",
-      "tabulationOptions": null,
+      "tabulationOptions": {
+        "excludeUnresolvedWriteins": true
+      },
       "normalization": "simple",
       "contests": [
         {
