@@ -21,8 +21,8 @@
     "cd02-primary-rep": {
       "name": "Congressional District 2 (R)"
     },
-    "gov": {
-      "name": "Governor"
+    "gov-primary-dem": {
+      "name": "Governor (D)"
     },
     "sr41-dem": {
       "name": "State Representative - District 41 (D)"
@@ -55,7 +55,7 @@
           }
         },
         {
-          "office": "gov",
+          "office": "gov-primary-dem",
           "loaderParams": {
             "files": "govd-1.xlsx;govd-2.xlsx;govd-3.xlsx;govd-4.xlsx;govd-5.xlsx"
           }
