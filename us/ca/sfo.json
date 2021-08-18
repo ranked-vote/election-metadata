@@ -560,6 +560,67 @@
         "CVR_Export_20191125163446.zip": "bcaae1c5f57a367af861cc267c5e252a7786049a"
       },
       "website": "https://sfelections.sfgov.org/november-5-2019-election-results-detailed-reports"
+    },
+    "2020/11": {
+      "name": "Consolidated General Election",
+      "date": "2020-11-03",
+      "dataFormat": "nist_sp_1500",
+      "tabulationOptions": null,
+      "normalization": "simple",
+      "contests": [
+        {
+          "office": "supervisor-d01",
+          "loaderParams": {
+            "contest": "12",
+            "cvr": "CVR_Export_20201201091840.zip",
+            "dropUnqualifiedWriteIn": "true"
+          }
+        },
+        {
+          "office": "supervisor-d03",
+          "loaderParams": {
+            "contest": "13",
+            "cvr": "CVR_Export_20201201091840.zip",
+            "dropUnqualifiedWriteIn": "true"
+          }
+        },
+        {
+          "office": "supervisor-d05",
+          "loaderParams": {
+            "contest": "14",
+            "cvr": "CVR_Export_20201201091840.zip",
+            "dropUnqualifiedWriteIn": "true"
+          }
+        },
+        {
+          "office": "supervisor-d07",
+          "loaderParams": {
+            "contest": "15",
+            "cvr": "CVR_Export_20201201091840.zip",
+            "dropUnqualifiedWriteIn": "true"
+          }
+        },
+        {
+          "office": "supervisor-d09",
+          "loaderParams": {
+            "contest": "16",
+            "cvr": "CVR_Export_20201201091840.zip",
+            "dropUnqualifiedWriteIn": "true"
+          }
+        },
+        {
+          "office": "supervisor-d11",
+          "loaderParams": {
+            "contest": "17",
+            "cvr": "CVR_Export_20201201091840.zip",
+            "dropUnqualifiedWriteIn": "true"
+          }
+        }
+      ],
+      "files": {
+        "CVR_Export_20201201091840.zip": "323d569c29478e35123d739ac8f84e6225ef2cda"
+      },
+      "website": "https://sfelections.sfgov.org/november-3-2020-election-results-summary"
     }
   }
 }
