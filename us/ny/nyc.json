@@ -1,31 +1,31 @@
 {
-    "name": "New York City",
-    "path": "us/ny/nyc",
-    "kind": "city",
-    "offices": {
-      "mayor-primary-dem": {
-        "name": "Mayor Nominee (Dem)"
-      }
-    },
-    "elections": {
-      "2021/06": {
-        "name": "Democratic Caucus",
-        "date": "2021-06-22",
-        "dataFormat": "nyc_excel",
-        "tabulationOptions": null,
-        "normalization": "simple",
-        "contests": [
-          {
-            "office": "mayor",
-            "loaderParams": {
-              "office_name": "DEM Mayor"
-            }
+  "name": "New York City",
+  "path": "us/ny/nyc",
+  "kind": "city",
+  "offices": {
+    "mayor-primary-dem": {
+      "name": "Mayor Nominee (Dem)"
+    }
+  },
+  "elections": {
+    "2021/06": {
+      "name": "Democratic Caucus",
+      "date": "2021-06-22",
+      "dataFormat": "nyc_excel",
+      "tabulationOptions": null,
+      "normalization": "simple",
+      "contests": [
+        {
+          "office": "mayor",
+          "loaderParams": {
+            "office_name": "DEM Mayor"
           }
-        ],
-        "files": {
-          
-        },
-        "website": "https://vote.nyc/page/election-results-summary#p0"
-      }
+        }
+      ],
+      "files": {
+        "PE2021_CVR_Final.zip": "17092cb6e0a91f3acea8fadd7775baf6a7239c8a"
+      },
+      "website": "https://vote.nyc/page/election-results-summary#p0"
     }
   }
+}
