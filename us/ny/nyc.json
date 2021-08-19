@@ -11,14 +11,17 @@
     "2021/06": {
       "name": "Democratic Caucus",
       "date": "2021-06-22",
-      "dataFormat": "nyc_excel",
+      "dataFormat": "us_ny_nyc",
       "tabulationOptions": null,
       "normalization": "simple",
       "contests": [
         {
-          "office": "mayor",
+          "office": "mayor-primary-dem",
           "loaderParams": {
-            "office_name": "DEM Mayor"
+            "officeName": "DEM Mayor",
+            "jurisdictionName": "Citywide",
+            "candidatesFile": "2021P_CandidacyID_To_Name.xlsx",
+            "cvrPattern": "2021P\\d?V.+\\.xlsx"
           }
         }
       ],
