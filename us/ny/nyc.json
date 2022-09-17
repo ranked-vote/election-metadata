@@ -18,10 +18,10 @@
         {
           "office": "mayor-primary-dem",
           "loaderParams": {
-            "officeName": "DEM Mayor",
-            "jurisdictionName": "Citywide",
             "candidatesFile": "2021P_CandidacyID_To_Name.xlsx",
-            "cvrPattern": "2021P\\d?V.+\\.xlsx"
+            "cvrPattern": "2021P\\d?V.+\\.xlsx",
+            "jurisdictionName": "Citywide",
+            "officeName": "DEM Mayor"
           }
         }
       ],
