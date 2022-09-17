@@ -10,7 +10,7 @@
   "elections": {
     "2022/08": {
       "name": "Special Election",
-      "date": "2018-08-16",
+      "date": "2022-08-16",
       "dataFormat": "nist_sp_1500",
       "tabulationOptions": null,
       "normalization": "simple",
